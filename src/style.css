@@ -1,3 +1,9 @@
-.hello {
-    color: red;
+.btn-likes {
+  background-color: #fff;
+  border: 0;
+  font-size: 18px;
+}
+
+.btn-likes i {
+  font-size: 33px;
 }
