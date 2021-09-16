@@ -23,8 +23,21 @@ export default class Movies {
           id: movie.id,
           overview: movie.overview,
           release_date: movie.release_date,
-          vote_average: JSON.stringify(movie.vote_average),
+          vote_average: movie.vote_average,
         });
       });
+    }
+
+    movieInfo = (id) => {
+      let clickedMovie = [];
+      this.data.forEach((movie) => {
+        if (movie.id === id) {
+          clickedMovie = movie;
+        }
+      });
+      if (clickedMovie === []) {
+        return new Error('not Found!!');
+      }
+      return clickedMovie;
     }
 }

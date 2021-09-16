@@ -1,24 +1,28 @@
 .m-title {
-  color: blue;
-  height: 72px;
+    color: blue;
+    height: 72px;
 }
 
 .btn-likes {
-  background-color: #fff;
-  border: 0;
-  font-size: 18px;
+    background-color: #fff;
+    border: 0;
+    font-size: 18px;
 }
 
 .btn-likes i {
-  font-size: 23px;
+    font-size: 23px;
 }
 
-footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #ccc;
-  color: white;
-  text-align: center;
+.footer {
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.1rem;
+    border-top: 1px solid;
+    color: #fff;
+}
+
+.footer p {
+    text-align: center;
 }
