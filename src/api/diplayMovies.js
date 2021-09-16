@@ -11,10 +11,10 @@ const displayMovies = (data, elementId) => {
             <div class="col-md-4">
               <div id="${id}" class="card mb-4 box-shadow">
                 <img class="card-img-top" data-src="${image}" alt="${title}" style="height: 225px; width: 100%; display: block;" src="${image}" data-holder-rendered="true">
-                <div class="card-body">
-                  <h6 class="card-text">
+                <div class="card-body p-4">
+                  <h5 class="card-text pb-4 m-title">
                   ${title}
-                  </h6>
+                  </h5>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button type="button" class="btn btn-lg btn-outline-secondary">Comments</button> </div>
