@@ -1,19 +1,19 @@
 .btn-likes {
-  background-color: #fff;
-  border: 0;
-  font-size: 18px;
+    background-color: #fff;
+    border: 0;
+    font-size: 18px;
 }
 
 .btn-likes i {
-  font-size: 33px;
+    font-size: 23px;
 }
 
 footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #ccc;
-  color: white;
-  text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ccc;
+    color: white;
+    text-align: center;
 }
