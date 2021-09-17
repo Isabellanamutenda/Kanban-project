@@ -11,6 +11,7 @@ This is a web application based on the TV Maze API. The API privides data about 
 
 ## Live Demo
 You can view the live demo here
+https://isabellanamutenda.github.io/Kanban-project/
 
 ## Getting Started
 
