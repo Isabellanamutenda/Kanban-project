@@ -1,5 +1,4 @@
 const postLikes = async (item) => {
-  console.log(item)
   const response = await fetch('https://us-central1-involvement-api.cloudfunctions.net/capstoneApi/apps/evHHvuIv3WOjJCJ4yH2P/likes', {
     method: 'POST',
     body: JSON.stringify({ item_id: item }),
