@@ -28,23 +28,23 @@ To run tests
 - Run npm run test
 
 ##Authors
-Isabella
+:person: Isabella
 Github
-https://github.com/Isabellanamutenda
+- https://github.com/Isabellanamutenda
 
-Yannick
+:person: Yannick
 Github
-https://github.com/codecaiine
+- https://github.com/codecaiine
 
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-Show your support
-Give a star ⭐ if you like this project!
+## Show your support
+Give a ⭐ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
+## Acknowledgments
+- Hat tip to anyone whose code was used
+- Inspiration
