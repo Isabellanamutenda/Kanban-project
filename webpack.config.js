@@ -9,6 +9,7 @@ module.exports = {
       template: './src/index.html',
     }),
   ],
+  devtool: 'inline-source-map',
   devServer: {
     static: './dist',
   },
