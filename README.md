@@ -27,12 +27,12 @@ To get a copy of the work running on your local machine follow the steps down be
 To run tests 
 - Run npm run test
 
-##Authors
-:person: Isabella
+## Authors
+🧑‍🦱: Isabella
 Github
 - https://github.com/Isabellanamutenda
 
-:person: Yannick
+🧑‍🦱: Yannick
 Github
 - https://github.com/codecaiine
 
