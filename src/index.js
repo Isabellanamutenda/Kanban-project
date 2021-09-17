@@ -21,7 +21,7 @@ window.addEventListener('load', async () => {
   const shows = await getShows();
   const sixShows = shows.slice(0, 20);
 
-  itemsTitle.innerHTML = `TV SHOWS (${showsCount(sixShows)})`;
+  itemsTitle.innerHTML = `MOVIES (${showsCount(sixShows)})`;
   await buildShows(sixShows, allShowsContainer);
 
   const commentPopup = [...document.querySelectorAll('.comment-popup')];
