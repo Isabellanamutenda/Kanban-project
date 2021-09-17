@@ -19,8 +19,8 @@ You can view the live demo here
 To get a copy of the work running on your local machine follow the steps down below:
 - get the link frome where it is written code on the project
 - open the terminal
-- git clone
-- cd 
+- git clone https://github.com/Isabellanamutenda/Kanban-project.git
+- cd Kanban-project
 - npm install
 - npm start
 
